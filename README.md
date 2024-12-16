@@ -33,7 +33,7 @@ The usage of MultiThreading, unlike sequential Searching, can **speed up the pro
 #### **2. Progress Tracking**
 ![image](https://github.com/user-attachments/assets/4db9a470-db80-477a-836f-520bc906b086)
 
-#### **3. Keyword Highlighting **
+#### **3. Keyword Highlighting**
 ![image](https://github.com/user-attachments/assets/2f91d7f1-cd9a-4fb5-86a4-fdb2d352a866)
 
 ---

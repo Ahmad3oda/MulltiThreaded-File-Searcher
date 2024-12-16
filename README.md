@@ -3,7 +3,7 @@
 ### **Project Overview**
 **Multi-threaded File Searcher** is a Python application that allows users to search for a specific keyword across multiple files efficiently. By applying multi-threading, the application ensures faster performance while maintaining a **responsive GUI** using Tkinter that trackes the progress for each thread.
 
-The usage of MultiThreading, unlike sequential Searching, can speed up the process up to **n times** in best-case senario, where **n** is the number of files being processed simultaneouslty.
+The usage of MultiThreading, unlike sequential Searching, can **speed up the process up to n times** in best-case senario, where **n** is the number of files being processed simultaneouslty.
 
 ---
 
